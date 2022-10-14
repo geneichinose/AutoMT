@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): UP
+* STATION    (KSTNM): ONAU
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHE
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2012-09-26T06:00:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : T3U93 A1029 3U93
+* LATITUDE          : 57.3965
+* LONGITUDE         : 11.9177
+* ELEVATION         : 16
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 90
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : CMG-DAS-U-S3
+* INSTGAIN          : 1.000800e+04 (V) @ 1 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 3.133370e+09 (COUNTS) @ 1 Hz
+* A0                : 5.715720e+08 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 5
+      -3.7008000e-02       -3.7008000e-02
+      -3.7008000e-02       +3.7008000e-02
+      -1.1309700e+03       +0.0000000e+00
+      -1.0053100e+03       +0.0000000e+00
+      -5.0265500e+02       +0.0000000e+00
+CONSTANT       +1.7909466e+18

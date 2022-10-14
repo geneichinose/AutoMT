@@ -1,0 +1,36 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : A807
+* LOCATION    : 
+* CHANNEL     : HHZ
+* CREATED     : 2022-10-14T05:35:09.004880Z
+* START       : 2000-01-01T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : BGR Station A807, Germany
+* LATITUDE    : 52.09690725
+* LONGITUDE   : 13.41822442
+* ELEVATION   : 52.0
+* DEPTH       : 42.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : BB
+* INSTGAIN    : 400.0 (M/S)
+* SENSITIVITY : 8055380480.0 (M/S)
+* A0          : 1.0
+* **************************************************
+ZEROS 4
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 3
+ -4.440000e+00 +4.440000e+00
+ -4.440000e+00 -4.440000e+00
+ -1.083000e+00 +0.000000e+00
+CONSTANT 8.055380e+09
+
+
+

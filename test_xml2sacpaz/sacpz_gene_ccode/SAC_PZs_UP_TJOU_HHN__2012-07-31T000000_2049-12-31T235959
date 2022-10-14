@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): UP
+* STATION    (KSTNM): TJOU
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2012-07-31T00:00:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : T3907 D0378 3907
+* LATITUDE          : 58.032
+* LONGITUDE         : 11.625
+* ELEVATION         : 40
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 0
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : CMG-3TD
+* INSTGAIN          : 2.066400e+04 (V) @ 1 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 8.078180e+09 (COUNTS) @ 1 Hz
+* A0                : 5.715730e+08 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 5
+      -1.4859700e-01       -1.4859700e-01
+      -1.4859700e-01       +1.4859700e-01
+      -1.1309700e+03       +0.0000000e+00
+      -1.0053100e+03       +0.0000000e+00
+      -5.0265500e+02       +0.0000000e+00
+CONSTANT       +4.6172696e+18

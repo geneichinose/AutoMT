@@ -1,0 +1,49 @@
+xml2sacpaz| readStationXML| OCT-13 22:33:25| opening file test.xml
+xml2sacpaz| readStationXML| OCT-13 22:33:25| netk=0 stai=0 net=IU sta=ANMO Latitude=34.9459 Longitude=-106.457 Elevation=1850 Name=Albuquerque, New Mexico, USA
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=0 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=1998-10-26T20:00:00.00 endDate=2000-10-19T16:00:00.00 skip! 2000-10-19T16:00:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| xml2sacpaz: (IU.ANMO.00) NOT 3-compoment station nchan=0 **********************
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=0 done with net = IU station = ANMO ( usedata = 0 : 0=no/1=yes )
+xml2sacpaz| readStationXML| OCT-13 22:33:25| netk=0 stai=1 net=IU sta=ANMO Latitude=34.9502 Longitude=-106.46 Elevation=1839 Name=Albuquerque, New Mexico, USA
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=1 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2000-10-19T16:00:00.00 endDate=2002-11-19T21:07:00.00 skip! 2002-11-19T21:07:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| xml2sacpaz: (IU.ANMO.00) NOT 3-compoment station nchan=0 **********************
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=1 done with net = IU station = ANMO ( usedata = 0 : 0=no/1=yes )
+xml2sacpaz| readStationXML| OCT-13 22:33:25| netk=0 stai=2 net=IU sta=ANMO Latitude=34.9459 Longitude=-106.457 Elevation=1820 Name=Albuquerque, New Mexico, USA
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2002-11-19T21:07:00.00 endDate=2008-06-30T00:00:00.00 skip! 2008-06-30T00:00:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2008-06-30T00:00:00.00 endDate=2008-06-30T20:00:00.00 skip! 2008-06-30T20:00:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2008-06-30T20:00:00.00 endDate=2011-02-18T19:11:00.00 skip! 2011-02-18T19:11:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2011-02-18T19:11:00.00 endDate=2012-03-12T20:28:00.00 skip! 2012-03-12T20:28:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2012-03-12T20:28:00.00 endDate=2014-12-17T18:40:00.00 skip! 2014-12-17T18:40:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 outside channel startDate=2014-12-17T18:40:00.00 endDate=2018-07-09T20:45:00.00 skip! 2018-07-09T20:45:00.0000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 chan=0 net=IU station=ANMO chan=BHZ(loc=00) event ot=2021-03-11T00:00:00.00 within channel startDate=2018-07-09T20:45:00.00 endDate=2049-12-31T23:59:59.99 keep! (null)
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.InstrumentSensitivity.Value = 1984750000.000000(1.984750e+09)
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.InstrumentSensitivity.Frequency = 0.02
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.InstrumentSensitivity.InputUnits.Name = m/s
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.InstrumentSensitivity.OutputUnits = counts
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.number = 1
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.PolesZeros.InputUnits.Name = m/s
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.PolesZeros.OutputUnits.Name = V
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.PolesZeros.PzTransferFunctionType = LAPLACE (RADIANS/SECOND)
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.PolesZeros.NormalizationFactor = 0.000000(5.511780e-20)
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.PolesZeros.NormalizationFrequency = 0.02
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=0 Zero 0 0 Real=0.000000 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=1 Zero 1 1 Real=0.000000 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=2 Zero 2 2 Real=-4.157820 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=3 Zero 3 3 Real=-4.157820 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=4 Zero 4 4 Real=-4957930.000000 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=5 Zero 5 5 Real=-0.648766 Imaginary=-7735670.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=6 Zero 6 6 Real=-0.648766 Imaginary=7735670.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=7 Zero 7 7 Real=-10615700.000000 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| r.Number_Zeros = 8
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=0 Poles 0 0 Real=-0.012311 Imaginary=-0.012401
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=1 Poles 1 1 Real=-0.012311 Imaginary=0.012401
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=2 Poles 2 2 Real=-4.302680 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=3 Poles 3 3 Real=-4.302680 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=4 Poles 4 4 Real=-353.203000 Imaginary=0.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=5 Poles 5 5 Real=-484.230000 Imaginary=-473.792000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| ikik=6 Poles 6 6 Real=-484.230000 Imaginary=473.792000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| r.Number_Poles = 7
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.StageGain.Value = 1183.000000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| Response.Stage.StageGain.Frequency = 0.020000
+xml2sacpaz| readStationXML| OCT-13 22:33:25| net=0 sta=2 done with net = IU station = ANMO ( usedata = 1 : 0=no/1=yes )
+xml2sacpaz| readStationXML| OCT-13 22:33:25| total networks 1, total Stations 3, total chan=1
+xml2sacpaz| main()| OCT-13 22:33:25| success readStationXML()

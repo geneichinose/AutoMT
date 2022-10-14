@@ -1,0 +1,37 @@
+* **************************************************
+* NETWORK     : UP
+* STATION     : DEL
+* LOCATION    : 
+* CHANNEL     : HHZ
+* CREATED     : 2022-10-14T05:35:09.181366Z
+* START       : 2021-12-02T14:57:00.000000Z
+* END         : None
+* DESCRIPTION : DEL; Delary
+* LATITUDE    : 56.4701
+* LONGITUDE   : 13.8705
+* ELEVATION   : 150.0
+* DEPTH       : 0.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : D0599
+* INSTGAIN    : 19210.0 (M/S)
+* SENSITIVITY : 7486360000.0 (M/S)
+* A0          : 189769000.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -1.482830e-01 +1.482830e-01
+ -1.482830e-01 -1.482830e-01
+ -3.218060e+02 +0.000000e+00
+ -3.484650e+02 +6.842390e+02
+ -3.484650e+02 -6.842390e+02
+CONSTANT 1.420679e+18
+
+
+

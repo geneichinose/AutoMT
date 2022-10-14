@@ -1,0 +1,36 @@
+* **************************************************
+* NETWORK     : DK
+* STATION     : COP
+* LOCATION    : 00
+* CHANNEL     : HHE
+* CREATED     : 2022-10-14T05:35:08.708758Z
+* START       : 2012-03-12T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : Station Copenhagen, Denmark
+* LATITUDE    : 55.6853
+* LONGITUDE   : 12.4325
+* ELEVATION   : 13.0
+* DEPTH       : 0.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 90.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : VBB
+* INSTGAIN    : 2400.0 (M/S)
+* SENSITIVITY : 4026528000.0 (M/S)
+* A0          : 3948.58
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 4
+ -1.234000e-02 +1.234000e-02
+ -1.234000e-02 -1.234000e-02
+ -3.918000e+01 +4.912000e+01
+ -3.918000e+01 -4.912000e+01
+CONSTANT 1.589907e+13
+
+
+

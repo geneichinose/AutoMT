@@ -1,0 +1,38 @@
+* **********************************
+* NETWORK   (KNETWK): DK
+* STATION    (KSTNM): STE02
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2018-09-14T00:00:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : Station Stenlille, Denmark
+* LATITUDE          : 55.5392
+* LONGITUDE         : 11.6559
+* ELEVATION         : 53
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 0
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : GFZ:DK1980:Trillium-Compact/g=750
+* INSTGAIN          : 7.500000e+02 (V) @ 1 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 3.145728e+08 (COUNTS) @ 1 Hz
+* A0                : 1.703692e+09 @ 1 Hz
+* **********************************
+ZEROS 4
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+      -1.0600000e+02       +0.0000000e+00
+      -1.5800000e+02       +0.0000000e+00
+POLES 7
+      -3.8590000e-02       +3.6490000e-02
+      -3.8590000e-02       -3.6490000e-02
+      -1.9000000e+02       +0.0000000e+00
+      -1.5800000e+02       +1.9300000e+02
+      -1.5800000e+02       -1.9300000e+02
+      -6.3900000e+02       +1.4180000e+03
+      -6.3900000e+02       -1.4180000e+03
+CONSTANT       +5.3593513e+17

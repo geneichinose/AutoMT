@@ -1,0 +1,37 @@
+* **************************************************
+* NETWORK     : UP
+* STATION     : ONAU
+* LOCATION    : 
+* CHANNEL     : HHE
+* CREATED     : 2022-10-14T05:35:08.758694Z
+* START       : 2012-09-26T06:00:00.000000Z
+* END         : None
+* DESCRIPTION : T3U93 A1029 3U93
+* LATITUDE    : 57.3965
+* LONGITUDE   : 11.9177
+* ELEVATION   : 16.0
+* DEPTH       : 0.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 90.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : CMG-DAS-U-S3
+* INSTGAIN    : 10008.0 (M/S)
+* SENSITIVITY : 3133370000.0 (M/S)
+* A0          : 571572000.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -3.700800e-02 -3.700800e-02
+ -3.700800e-02 +3.700800e-02
+ -1.130970e+03 +0.000000e+00
+ -1.005310e+03 +0.000000e+00
+ -5.026550e+02 +0.000000e+00
+CONSTANT 1.790947e+18
+
+
+

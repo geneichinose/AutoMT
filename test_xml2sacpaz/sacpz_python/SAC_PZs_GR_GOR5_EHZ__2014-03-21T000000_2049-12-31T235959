@@ -1,0 +1,36 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : GOR5
+* LOCATION    : 
+* CHANNEL     : EHZ
+* CREATED     : 2022-10-14T05:35:09.045167Z
+* START       : 2014-03-21T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : BGR Station Dangenstorf, Germany
+* LATITUDE    : 52.9228
+* LONGITUDE   : 11.2217
+* ELEVATION   : -265.0
+* DEPTH       : 0.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : BB
+* INSTGAIN    : 400.0 (M/S)
+* SENSITIVITY : 167772000.0 (M/S)
+* A0          : 1.0
+* **************************************************
+ZEROS 4
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 3
+ -4.440000e+00 +4.440000e+00
+ -4.440000e+00 -4.440000e+00
+ -1.083000e+00 +0.000000e+00
+CONSTANT 1.677720e+08
+
+
+

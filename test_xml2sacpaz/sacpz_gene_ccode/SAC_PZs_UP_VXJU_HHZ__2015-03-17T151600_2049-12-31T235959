@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): UP
+* STATION    (KSTNM): VXJU
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHZ
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2015-03-17T15:16:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : T36025 A1911 1911
+* LATITUDE          : 56.9212
+* LONGITUDE         : 14.9391
+* ELEVATION         : 190
+* DEPTH             : 0
+* DIP               : -90
+* AZIMUTH           : 0
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : 
+* INSTGAIN          : 9.838000e+03 (V) @ 1 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 3.085940e+09 (COUNTS) @ 1 Hz
+* A0                : 5.715720e+08 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 5
+      -7.4016000e-02       -7.4016000e-02
+      -7.4016000e-02       +7.4016000e-02
+      -1.0053100e+03       +0.0000000e+00
+      -5.0265500e+02       +0.0000000e+00
+      -1.1309700e+03       +0.0000000e+00
+CONSTANT       +1.7638369e+18

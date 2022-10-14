@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): GE
+* STATION    (KSTNM): RGN
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2014-05-02T12:48:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : GRSN/GEOFON Station Ruegen, Germany
+* LATITUDE          : 54.5477
+* LONGITUDE         : 13.3214
+* ELEVATION         : 15
+* DEPTH             : 2
+* DIP               : -90
+* AZIMUTH           : 0
+* SAMPLE RATE       : 20
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : GFZ:GE1993:STS-2/N/g=1500
+* INSTGAIN          : 1.500000e+03 (V) @ 0.02 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 5.880000e+08 (COUNTS) @ 0.02 Hz
+* A0                : 6.007700e+07 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 5
+      -3.7004000e-02       +3.7016000e-02
+      -3.7004000e-02       -3.7016000e-02
+      -2.5133000e+02       +0.0000000e+00
+      -1.3104000e+02       -4.6729000e+02
+      -1.3104000e+02       +4.6729000e+02
+CONSTANT       +3.5325276e+16

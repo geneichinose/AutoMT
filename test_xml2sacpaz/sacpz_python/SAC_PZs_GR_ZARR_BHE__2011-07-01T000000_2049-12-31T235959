@@ -1,0 +1,34 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : ZARR
+* LOCATION    : 
+* CHANNEL     : BHE
+* CREATED     : 2022-10-14T05:35:09.088554Z
+* START       : 2011-07-01T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : GRSN Station Zarrenthin
+* LATITUDE    : 53.5538
+* LONGITUDE   : 10.9175
+* ELEVATION   : 39.0
+* DEPTH       : 0.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 90.0
+* SAMPLE RATE : 20.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : None
+* INSTGAIN    : 944019640.0 (m/s)
+* SENSITIVITY : 944019640.0 (m/s)
+* A0          : 1.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 2
+ -3.674290e-02 +3.675400e-02
+ -3.674290e-02 -3.675400e-02
+CONSTANT 9.440196e+08
+
+
+

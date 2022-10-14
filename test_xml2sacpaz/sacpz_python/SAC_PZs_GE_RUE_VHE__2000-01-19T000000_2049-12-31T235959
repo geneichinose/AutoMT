@@ -1,0 +1,37 @@
+* **************************************************
+* NETWORK     : GE
+* STATION     : RUE
+* LOCATION    : 
+* CHANNEL     : VHE
+* CREATED     : 2022-10-14T05:35:08.695342Z
+* START       : 2012-03-21T10:00:00.000000Z
+* END         : None
+* DESCRIPTION : GRSN/GEOFON Station Ruedersdorf, Germany
+* LATITUDE    : 52.4759
+* LONGITUDE   : 13.78
+* ELEVATION   : 40.0
+* DEPTH       : 3.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 90.0
+* SAMPLE RATE : 0.1
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : VBB
+* INSTGAIN    : 1500.0 (M/S)
+* SENSITIVITY : 2352000000.0 (M/S)
+* A0          : 60077000.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -3.700400e-02 +3.701600e-02
+ -3.700400e-02 -3.701600e-02
+ -2.513300e+02 +0.000000e+00
+ -1.310400e+02 -4.672900e+02
+ -1.310400e+02 +4.672900e+02
+CONSTANT 1.413011e+17
+
+
+

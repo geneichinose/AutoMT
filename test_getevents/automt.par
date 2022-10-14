@@ -1,0 +1,42 @@
+##
+working_directory=/Users/ichinose1/Work/automt_test
+##
+curl_options=" -k -s --max-time 60 --connect-timeout 60 "
+##
+## webserver for events/catalog
+##
+agency=USGS
+url="http://earthquake.usgs.gov/fdsnws/event/1"
+###
+# agency=ISC
+# url="http://www.isc.ac.uk/fdsnws/event/1"
+#######
+#agency=IRIS
+#url="http://service.iris.edu/fdsnws/event/1"
+###url="http://service.adc1.iris.edu/fdsnws/event/1"
+#######
+realtime
+duration=1.0
+#########
+# problem interval 2016-10-24T144411
+# norealtime
+# start=2016-10-24T14:00:00
+# end=2016-10-24T15:00:00
+##########
+minmag=3.8
+maxmag=7.2
+minlat=-20
+maxlat=+89
+minlon=-20
+maxlon=+170
+noverbose
+maxDistMTdeg=8
+getwave
+getresp
+##
+## sometimes IRIS changes url/must go down/not fully function with waveforms
+##
+# url_metadata="http://service.adc1.iris.edu/fdsnws/station/1"
+# url_waveform="http://service.adc1.iris.edu/fdsnws/timeseries/1"
+# url_response="http://service.adc1.iris.edu/fdsnws/sacpaz/1"
+##

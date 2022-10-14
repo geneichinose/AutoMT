@@ -1,0 +1,37 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : LNIZ
+* LOCATION    : 
+* CHANNEL     : BHZ
+* CREATED     : 2022-10-14T05:35:09.073913Z
+* START       : 2014-10-01T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : BGR Station Loecknitz, Germany
+* LATITUDE    : 53.4935
+* LONGITUDE   : 14.2097
+* ELEVATION   : 13.0
+* DEPTH       : 0.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 20.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : VBB
+* INSTGAIN    : 1500.0 (M/S)
+* SENSITIVITY : 943989900.0 (M/S)
+* A0          : 59206140.39
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -3.700400e-02 +3.701600e-02
+ -3.700400e-02 -3.701600e-02
+ -2.513300e+02 +0.000000e+00
+ -1.310400e+02 -4.672900e+02
+ -1.310400e+02 +4.672900e+02
+CONSTANT 5.589000e+16
+
+
+

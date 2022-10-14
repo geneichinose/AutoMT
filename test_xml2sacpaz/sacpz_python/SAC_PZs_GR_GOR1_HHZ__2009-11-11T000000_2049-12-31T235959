@@ -1,0 +1,38 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : GOR1
+* LOCATION    : 
+* CHANNEL     : HHZ
+* CREATED     : 2022-10-14T05:35:09.033637Z
+* START       : 2012-06-01T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : BGR Station Trebel, Germany
+* LATITUDE    : 52.9903
+* LONGITUDE   : 11.3075
+* ELEVATION   : -278.0
+* DEPTH       : 0.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : VBB
+* INSTGAIN    : 6000.0 (M/S)
+* SENSITIVITY : 2516580000.0 (M/S)
+* A0          : 43229820000.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 6
+ -1.234000e-02 +1.234000e-02
+ -1.234000e-02 -1.234000e-02
+ -1.888280e+02 +1.955400e+02
+ -1.888280e+02 -1.955400e+02
+ -2.592220e+02 +7.196450e+02
+ -2.592220e+02 -7.196450e+02
+CONSTANT 1.087913e+20
+
+
+

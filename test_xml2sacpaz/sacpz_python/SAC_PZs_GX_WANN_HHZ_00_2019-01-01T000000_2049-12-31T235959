@@ -1,0 +1,36 @@
+* **************************************************
+* NETWORK     : GX
+* STATION     : WANN
+* LOCATION    : 00
+* CHANNEL     : HHZ
+* CREATED     : 2022-10-14T05:35:08.700642Z
+* START       : 2019-01-01T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : HMI/UniPotsdam/GFZ Station Berlin-Wannsee, Germany
+* LATITUDE    : 52.41073
+* LONGITUDE   : 13.12508
+* ELEVATION   : 59.0
+* DEPTH       : 150.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : None
+* INSTGAIN    : 800.0 (M/S)
+* SENSITIVITY : 3276800000.0 (M/S)
+* A0          : 1.0
+* **************************************************
+ZEROS 4
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 3
+ -4.444000e+00 +4.444000e+00
+ -4.444000e+00 -4.444000e+00
+ -1.083000e+00 +0.000000e+00
+CONSTANT 3.276800e+09
+
+
+

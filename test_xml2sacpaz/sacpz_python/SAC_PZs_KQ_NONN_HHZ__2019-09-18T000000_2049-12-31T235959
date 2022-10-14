@@ -1,0 +1,37 @@
+* **************************************************
+* NETWORK     : KQ
+* STATION     : NONN
+* LOCATION    : 
+* CHANNEL     : HHZ
+* CREATED     : 2022-10-14T05:35:09.168092Z
+* START       : 2019-09-18T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : Nonnendorf
+* LATITUDE    : 54.11078
+* LONGITUDE   : 13.69201
+* ELEVATION   : 16.0
+* DEPTH       : 0.0
+* DIP (SEED)  : -90.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : None
+* INSTGAIN    : 5878.0 (M/S)
+* SENSITIVITY : 1665170000.0 (M/S)
+* A0          : 571508000.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -3.700800e-02 +3.700800e-02
+ -3.700800e-02 -3.700800e-02
+ -5.026500e+02 +0.000000e+00
+ -1.005000e+03 +0.000000e+00
+ -1.131000e+03 +0.000000e+00
+CONSTANT 9.516580e+17
+
+
+

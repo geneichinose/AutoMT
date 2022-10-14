@@ -1,0 +1,33 @@
+* **********************************
+* NETWORK   (KNETWK): DK
+* STATION    (KSTNM): COP
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHN
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2012-03-12T00:00:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : Station Copenhagen, Denmark
+* LATITUDE          : 55.6853
+* LONGITUDE         : 12.4325
+* ELEVATION         : 13
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 0
+* SAMPLE RATE       : 40
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : GFZ:DK1980:STS-1/VBB/g=2400
+* INSTGAIN          : 2.400000e+03 (V) @ 0.02 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 4.026528e+09 (COUNTS) @ 0.02 Hz
+* A0                : 3.948580e+03 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 4
+      -1.2340000e-02       +1.2340000e-02
+      -1.2340000e-02       -1.2340000e-02
+      -3.9180000e+01       +4.9120000e+01
+      -3.9180000e+01       -4.9120000e+01
+CONSTANT       +1.5899068e+13

@@ -1,0 +1,30 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : IKUHM
+* LOCATION    : 
+* CHANNEL     : LWS
+* CREATED     : 2022-10-14T05:35:09.102967Z
+* START       : 2021-07-12T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : BGR Station Infrasound Array Kuehlungsborn Met
+* LATITUDE    : 54.11558
+* LONGITUDE   : 11.76327
+* ELEVATION   : 120.0
+* DEPTH       : 0.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 1.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : None
+* INSTGAIN    : 10.0 (M/S)
+* SENSITIVITY : 10.0 (M/S)
+* A0          : 1.0
+* **************************************************
+ZEROS 1
+ +0.000000e+00 +0.000000e+00
+POLES 0
+CONSTANT 1.000000e+01
+
+
+

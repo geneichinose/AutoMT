@@ -1,0 +1,33 @@
+* **********************************
+* NETWORK   (KNETWK): GX
+* STATION    (KSTNM): WANN
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): HHE
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2019-01-01T00:00:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : HMI/UniPotsdam/GFZ Station Berlin-Wannsee, Germany
+* LATITUDE          : 52.4107
+* LONGITUDE         : 13.1251
+* ELEVATION         : 59
+* DEPTH             : 150
+* DIP               : 0
+* AZIMUTH           : 90
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : GFZ:GX2019:LE-3D/BHMK3/g=800
+* INSTGAIN          : 8.000000e+02 (V) @ 5 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 3.276800e+09 (COUNTS) @ 5 Hz
+* A0                : 1.000000e+00 @ 5 Hz
+* **********************************
+ZEROS 3
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 3
+      -4.4440000e+00       +4.4440000e+00
+      -4.4440000e+00       -4.4440000e+00
+      -1.0830000e+00       +0.0000000e+00
+CONSTANT       +3.2768000e+09

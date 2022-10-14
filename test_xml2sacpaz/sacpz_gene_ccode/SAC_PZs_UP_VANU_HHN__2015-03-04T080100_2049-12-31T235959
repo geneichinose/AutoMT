@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UP
+* STATION    (KSTNM): VANU
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2015-03-04T08:01:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : TUC32 D0777 UC32
+* LATITUDE          : 58.4921
+* LONGITUDE         : 12.0727
+* ELEVATION         : 50
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 0
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : 
+* INSTGAIN          : 1.993000e+04 (V) @ 1 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 7.877470e+09 (COUNTS) @ 1 Hz
+* A0                : 8.892060e-02 @ 1 Hz
+* **********************************
+ZEROS 4
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+      +8.6708000e+02       -9.0477900e+02
+      +8.6708000e+02       +9.0477900e+02
+POLES 4
+      -1.4803200e-01       -1.4803200e-01
+      -1.4803200e-01       +1.4803200e-01
+      -3.1415900e+02       -2.0231900e+02
+      -3.1415900e+02       +2.0231900e+02
+CONSTANT       +7.0046936e+08

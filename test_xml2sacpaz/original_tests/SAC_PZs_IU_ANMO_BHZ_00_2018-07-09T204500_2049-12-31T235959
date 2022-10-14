@@ -1,0 +1,42 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): ANMO
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2022-10-14T05:33:25.00
+* START             : 2018-07-09T20:45:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : Albuquerque, New Mexico, USA
+* LATITUDE          : 34.9459
+* LONGITUDE         : -106.457
+* ELEVATION         : 1820
+* DEPTH             : 188
+* DIP               : -90
+* AZIMUTH           : 0
+* SAMPLE RATE       : 40
+* INPUT UNIT        : m/s
+* OUTPUT UNIT       : counts
+* INSTTYPE          : Streckeisen STS-6A VBB Seismometer
+* INSTGAIN          : 1.183000e+03 (V) @ 0.02 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 1.984750e+09 (counts) @ 0.02 Hz
+* A0                : 5.511780e-20 @ 0.02 Hz
+* **********************************
+ZEROS 8
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+      -4.1578200e+00       +0.0000000e+00
+      -4.1578200e+00       +0.0000000e+00
+      -4.9579300e+06       +0.0000000e+00
+      -6.4876600e-01       -7.7356700e+06
+      -6.4876600e-01       +7.7356700e+06
+      -1.0615700e+07       +0.0000000e+00
+POLES 7
+      -1.2310500e-02       -1.2400900e-02
+      -1.2310500e-02       +1.2400900e-02
+      -4.3026800e+00       +0.0000000e+00
+      -4.3026800e+00       +0.0000000e+00
+      -3.5320300e+02       +0.0000000e+00
+      -4.8423000e+02       -4.7379200e+02
+      -4.8423000e+02       +4.7379200e+02
+CONSTANT       +1.0939505e-10

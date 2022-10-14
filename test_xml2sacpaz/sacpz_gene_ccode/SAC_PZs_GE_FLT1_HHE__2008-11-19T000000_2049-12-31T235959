@@ -1,0 +1,34 @@
+* **********************************
+* NETWORK   (KNETWK): GE
+* STATION    (KSTNM): FLT1
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHE
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2008-11-19T00:00:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : Temp GEOFON Station Temp GEOFON Station Flechtingen, Germany
+* LATITUDE          : 52.3306
+* LONGITUDE         : 11.2372
+* ELEVATION         : 100
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 90
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : GFZ:GE1993:STS-2/N/g=1500
+* INSTGAIN          : 1.500000e+03 (V) @ 0.02 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 2.516580e+09 (COUNTS) @ 0.02 Hz
+* A0                : 6.007700e+07 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 5
+      -3.7004000e-02       +3.7016000e-02
+      -3.7004000e-02       -3.7016000e-02
+      -2.5133000e+02       +0.0000000e+00
+      -1.3104000e+02       -4.6729000e+02
+      -1.3104000e+02       +4.6729000e+02
+CONSTANT       +1.5118858e+17

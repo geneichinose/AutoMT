@@ -1,0 +1,34 @@
+* **************************************************
+* NETWORK     : GR
+* STATION     : NRDL
+* LOCATION    : 
+* CHANNEL     : HHN
+* CREATED     : 2022-10-14T05:35:09.085714Z
+* START       : 2010-09-02T00:00:00.000000Z
+* END         : None
+* DESCRIPTION : GRSN Station Niedersachsen
+* LATITUDE    : 52.49432
+* LONGITUDE   : 10.10728
+* ELEVATION   : 43.0
+* DEPTH       : 398.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 100.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : COUNTS
+* INSTTYPE    : None
+* INSTGAIN    : 2518891700.0 (m/s)
+* SENSITIVITY : 2518891700.0 (m/s)
+* A0          : 1.0
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 2
+ -3.674290e-02 +3.675400e-02
+ -3.674290e-02 -3.675400e-02
+CONSTANT 2.518892e+09
+
+
+

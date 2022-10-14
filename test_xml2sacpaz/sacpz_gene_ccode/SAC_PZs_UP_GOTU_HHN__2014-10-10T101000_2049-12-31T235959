@@ -1,0 +1,35 @@
+* **********************************
+* NETWORK   (KNETWK): UP
+* STATION    (KSTNM): GOTU
+* LOCATION   (KHOLE): 
+* CHANNEL   (KCMPNM): HHN
+* CREATED           : 2022-10-14T05:34:33.00
+* START             : 2014-10-10T10:10:00.00
+* END               : 2049-12-31T23:59:59.99
+* DESCRIPTION       : T36411 A2739 6411
+* LATITUDE          : 57.6855
+* LONGITUDE         : 18.57
+* ELEVATION         : 50
+* DEPTH             : 0
+* DIP               : 0
+* AZIMUTH           : 0
+* SAMPLE RATE       : 100
+* INPUT UNIT        : M/S
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : CMG-3TD
+* INSTGAIN          : 1.978400e+04 (V) @ 1 Hz
+* COMMENT           : LAPLACE (RADIANS/SECOND)
+* SENSITIVITY       : 6.182500e+09 (COUNTS) @ 1 Hz
+* A0                : 4.322970e+10 @ 1 Hz
+* **********************************
+ZEROS 2
+      +0.0000000e+00       +0.0000000e+00
+      +0.0000000e+00       +0.0000000e+00
+POLES 6
+      -3.7008000e-02       -3.7008000e-02
+      -3.7008000e-02       +3.7008000e-02
+      -1.8882800e+02       -1.9553900e+02
+      -1.8882800e+02       +1.9553900e+02
+      -2.5922200e+02       -7.1964500e+02
+      -2.5922200e+02       +7.1964500e+02
+CONSTANT       +2.6726762e+20
